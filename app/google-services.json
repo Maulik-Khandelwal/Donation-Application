@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "631239854846",
+    "firebase_url": "https://fooddonation-14665.firebaseio.com",
+    "project_id": "fooddonation-14665",
+    "storage_bucket": "fooddonation-14665.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631239854846:android:830b22a9ecf436b02d73af",
+        "android_client_info": {
+          "package_name": "com.example.donationapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631239854846-j2ngeoskq55i7mumj9ht6shbm8afa9g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5tAqudgm-zJX_OA2GBDse86w7Su4MRGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631239854846-j2ngeoskq55i7mumj9ht6shbm8afa9g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631239854846:android:94c6c7a46e0fada62d73af",
+        "android_client_info": {
+          "package_name": "com.example.fooddonation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631239854846-pd63heajp2p85d30njg15q009srldlh9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fooddonation",
+            "certificate_hash": "137e828826ef017f22357fec10baff3af04af2d9"
+          }
+        },
+        {
+          "client_id": "631239854846-j2ngeoskq55i7mumj9ht6shbm8afa9g7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5tAqudgm-zJX_OA2GBDse86w7Su4MRGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631239854846-j2ngeoskq55i7mumj9ht6shbm8afa9g7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
